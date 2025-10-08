@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**adrianrs0911/adrianrs0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá 👋, eu sou Adrian Rodrigues</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AdrianRodrigues976?label=Seguidores&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/AdrianRodrigues976?label=Estrelas&style=social" alt="GitHub stars">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Estudante de desenvolvimento de software
+- 💻 Apaixonado por tecnologia, programação e inovação
+- 🔧 Trabalhando em projetos com **JavaScript**, **python**
+- 🌱 Atualmente aprendendo **Python**
+- 📫 Contato: [adrian.rodrigues.silva09@esocola.pr.gov.br](mailto:adrian.rodrigues.silva09@esocola.pr.gov.br)
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianRodrigues976&show_icons=true&theme=shadow_red" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianRodrigues976&theme=shadow_red" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/adrianrodrigues976" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/AdrianRodrigues976" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  </a>
+</p>
