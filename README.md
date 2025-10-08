@@ -42,10 +42,10 @@
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/adrianrodrigues976" target="_blank">
+  <a href="https://linkedin.com/in/Adrian Rodrigues da Silva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/AdrianRodrigues976" target="_blank">
+  <a href="https://github.com/gcs_teo_natsu" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
   </a>
 </p>
