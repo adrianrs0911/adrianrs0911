@@ -15,7 +15,7 @@
 - 💻 Apaixonado por tecnologia, programação e inovação
 - 🔧 Trabalhando em projetos com **JavaScript**, **python**
 - 🌱 Atualmente aprendendo **Python**
-- 📫 Contato: [adrian.rodrigues.silva09@esocola.pr.gov.br](mailto:adrian.rodrigues.silva09@esocola.pr.gov.br)
+- 📫 Contato: [adrianrs0911@gmail.com](mailto:adrianrs0911@gmail.com)
 
 ---
 
@@ -46,8 +46,8 @@
   <a href="https://linkedin.com/in/Adrian Rodrigues da Silva" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/gcs_teo_natsu" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  <a href="https://Discord.com/gcs_teo_natsu" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=github" />
   </a>
 </p>
 
