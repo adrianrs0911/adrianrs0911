@@ -1,4 +1,4 @@
-![Bem-vindo ao meu perfil!](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1C1C1C&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=FFFFFF&fontSize=30&fontAlign=center)
+![Bem-vindo ao meu perfil!](https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:1C1C1C&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=FFFFFF&fontSize=30&fontAlign=center)
 
 <h1 align="center">Olá 👋, eu sou Adrian Rodrigues</h1>
 
@@ -51,4 +51,4 @@
   </a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1C1C1C&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:800000&height=100&section=footer)
