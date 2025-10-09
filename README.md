@@ -3,8 +3,8 @@
 <h1 align="center">Olá 👋, eu sou Adrian Rodrigues</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AdrianRodrigues976?label=Seguidores&style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/AdrianRodrigues976?label=Estrelas&style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/adrianrs0911?label=Seguidores&style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/adrianrs0911?label=Estrelas&style=social" alt="GitHub stars">
 </p>
 
 ---
@@ -33,9 +33,9 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianRodrigues976&show_icons=true&theme=shadow_red" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianrs0911&show_icons=true&theme=shadow_red" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianRodrigues976&theme=shadow_red" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianrs0911&theme=shadow_red" alt="GitHub Streak" />
 </p>
 
 ---
