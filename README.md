@@ -42,13 +42,11 @@
 
 ### 🌐 Conecte-se comigo
 
-<p align="left">
-  <a href="https://linkedin.com/in/Adrian Rodrigues da Silva" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://Discord.com/gcs_teo_natsu" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=github" />
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu_id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu_usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:800000&height=100&section=footer)
