@@ -1,6 +1,6 @@
 ![Bem-vindo ao meu perfil!](https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:1C1C1C&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=FFFFFF&fontSize=30&fontAlign=center)
 
-<h1 align="center">Olá 👋, eu sou Adrian Rodrigues</h1>
+<h1 align="center">Hi 👋, my name is Adrian Rodrigues</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/adrianrs0911?label=Seguidores&style=social" alt="GitHub followers">
@@ -13,8 +13,7 @@
 
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
-- 🔧 Trabalhando em projetos com **HTML** **CSS** **JavaScript**
-- 🌱 Atualmente aprendendo **Python**
+- 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**.
 - 📫 Contato: [adrianrs0911@gmail.com](mailto:adrianrs0911@gmail.com)
 
 ---
