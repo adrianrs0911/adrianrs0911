@@ -23,7 +23,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" />
 </p>
