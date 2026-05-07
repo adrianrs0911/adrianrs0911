@@ -13,7 +13,7 @@
 
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
-- 🔧 Trabalhando em projetos com **JavaScript**, **python**
+- 🔧 Trabalhando em projetos com **HTML** **CSS** **JavaScript**
 - 🌱 Atualmente aprendendo **Python**
 - 📫 Contato: [adrianrs0911@gmail.com](mailto:adrianrs0911@gmail.com)
 
