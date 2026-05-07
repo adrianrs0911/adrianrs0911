@@ -22,7 +22,7 @@
 ### 🧰 Tecnologias e Ferramentas
 
 <p align="left">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" />
 </p>
