@@ -16,9 +16,8 @@
 - 💻 Apaixonado por tecnologia, programação e inovação
 - 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**.
 - 📫 Contato:
-- <p align="right">
-  <img src="https://www.google.com/imgres?q=kasane%20teto&imgurl=https%3A%2F%2Fmedia.tenor.com%2FRnzR38P9UWQAAAAj%2Fkasane-teto-vocaloid.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fkasane-teto-vocaloid-teto-sad-gif-5079165238763147620&docid=IDzM0EF2zkFi2M&tbnid=5PEv7FEHALebrM&vet=12ahUKEwiNq-KRsqeUAxUmELkGHfK_FCs4ChCc8A56BAg5EAE..i&w=200&h=200&hcb=2&ved=2ahUKEwiNq-KRsqeUAxUmELkGHfK_FCs4ChCc8A56BAg5EAE" alt="Descrição">
-</p>
+
+  ![Kasane-Teto](teto.jfif)
 
 ---
 
