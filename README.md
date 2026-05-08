@@ -17,7 +17,7 @@
 - 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**.
 - 📫 Contato:
 
-  ![Kasane-Teto](teto.jfif)
+  ![Kasane-Teto](kasane-teto-utau.gif)
 
 ---
 
