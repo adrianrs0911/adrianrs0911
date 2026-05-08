@@ -1,4 +1,4 @@
-![Welcome to my profile!](https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:1C1C1C&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=FFFFFF&fontSize=30&fontAlign=center)
+![Welcome to my profile!](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=FFFFFF&fontSize=30&fontAlign=center)
 
 <h1 align="center">Hi 👋, my name is Adrian Rodrigues</h1>
 <h1 align="center">I'm 16 years old</h1>
@@ -10,11 +10,11 @@
 
 ---
 
-### 🚀 Sobre mim <img src="denji1.jfif" width="70" align="center">
+### 🚀 Sobre mim <img src="denji1.jfif" width="190px" align="right">
 
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
-- 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**.
+- 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**. 
 - 📫 Contato: <a href="mailto:adrianrs0911@gmail.com">adrianrs0911@gmail.com</a>
 
 ---
