@@ -10,14 +10,12 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre mim <img src="kasane-teto-utau.gif" width="70" align="center">
 
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
 - 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**.
-- 📫 Contato:
-
-  ![Kasane-Teto](kasane-teto-utau.gif)
+- 📫 Contato: <a href="mailto:adrianrs0911@gmail.com">adrianrs0911@gmail.com</a>
 
 ---
 
