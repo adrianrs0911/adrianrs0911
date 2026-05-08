@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Sobre mim <img src="kasane-teto-utau.gif" width="70" align="center">
+### 🚀 Sobre mim <img src="denji1.jfif" width="70" align="center">
 
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
