@@ -15,7 +15,7 @@
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
 - 🔧 Trabalhando em projetos com **HTML**, **CSS**, **JavaScript**. 
-- 📫 Contato: <a href="mailto:adrianrs0911@gmail.com">adrianrs0911@gmail.com</a>
+- 📫 Contato: +55 (41) 98740-0020
 
 ---
 
