@@ -55,4 +55,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:800000&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=100&section=footer)
