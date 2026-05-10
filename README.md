@@ -41,7 +41,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianrs0911&theme=shadow_red" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adrianrs0911&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=000000" alt="GitHub Streak" /></a>
 </p>
   
 ---
