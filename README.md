@@ -1,4 +1,4 @@
-![Welcome to my profile!](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=FFFFFF&fontSize=30&fontAlign=center)
+![Welcome to my profile!](https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:000000&height=180&section=header&text=Welcome%20to%20my%20profile!&fontColor=FFFFFF&fontSize=40&fontAlign=center)
 
 <h1 align="center">Hi 👋, my name is Adrian Rodrigues</h1>
 <h1 align="center">I'm 16 years old</h1>
@@ -55,4 +55,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer)
