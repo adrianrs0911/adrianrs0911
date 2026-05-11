@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Sobre mim <img src="denji1.jfif" width="190px" align="right">
+### 🚀 Sobre mim <img src="denji1.jfif" width="180px" align="right">
 
 - 🎓 Estudante de desenvolvimento de software
 - 💻 Apaixonado por tecnologia, programação e inovação
